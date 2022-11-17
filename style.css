@@ -1,0 +1,22 @@
+body {
+    font-family: "Helvetica-Neue", Ultra;
+    font-size: 18px;
+    background: #84abe5;
+}
+#wrapper {
+    background: linear-gradient(to left, #099c53 , #3c2383);
+    border-radius: 5px;
+    padding: 1.2rem;
+    width: 300px;
+    height: 300px;
+}
+#key{
+    margin-bottom: 5px;
+}
+  .otstup {
+    margin-bottom: 20px;
+}
+header{
+    width: 338px;
+    text-align: center;
+}
